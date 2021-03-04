@@ -1,0 +1,2 @@
+Servergame
+Coordinates
