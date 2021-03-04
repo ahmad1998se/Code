@@ -1,0 +1,25 @@
+﻿Build started 11/6/2017 2:10:39 PM.
+     1>Project "C:\Users\Ahmad\Desktop\InLaP5_11__6\InLaP5_11__6\InLaP5_11__6.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\InLaP5_11__6.unsuccessfulbuild".
+       ClCompile:
+         D:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\ahmad\desktop\inlap5_11__6\inlap5_11__6\main.cpp(10): warning C4700: uninitialized local variable 'v' used
+     1>c:\users\ahmad\desktop\inlap5_11__6\inlap5_11__6\main.cpp(14): warning C4700: uninitialized local variable 'o' used
+     1>c:\users\ahmad\desktop\inlap5_11__6\inlap5_11__6\main.cpp(16): warning C4700: uninitialized local variable 'r' used
+       Link:
+         D:\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ahmad\Desktop\InLaP5_11__6\Debug\InLaP5_11__6.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\InLaP5_11__6.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Ahmad\Desktop\InLaP5_11__6\Debug\InLaP5_11__6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ahmad\Desktop\InLaP5_11__6\Debug\InLaP5_11__6.lib" /MACHINE:X86 Debug\main.obj
+         Debug\restaurantimp.obj
+     1>main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         InLaP5_11__6.vcxproj -> C:\Users\Ahmad\Desktop\InLaP5_11__6\Debug\InLaP5_11__6.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Ahmad\Desktop\InLaP5_11__6\Debug\InLaP5_11__6.exe;#1" /manifest Debug\InLaP5_11__6.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\InLaP5_11__6.unsuccessfulbuild".
+         Touching "Debug\InLaP5_11__6.lastbuildstate".
+     1>Done Building Project "C:\Users\Ahmad\Desktop\InLaP5_11__6\InLaP5_11__6\InLaP5_11__6.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.87

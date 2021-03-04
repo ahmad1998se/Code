@@ -1,0 +1,20 @@
+C:\Users\Ahmad\Desktop\POST LAP 2\POST LAP 2\bin\Debug\POST LAP 2.exe.config
+C:\Users\Ahmad\Desktop\POST LAP 2\POST LAP 2\bin\Debug\POST LAP 2.exe
+C:\Users\Ahmad\Desktop\POST LAP 2\POST LAP 2\bin\Debug\POST LAP 2.pdb
+C:\Users\Ahmad\Desktop\POST LAP 2\POST LAP 2\obj\Debug\POST LAP 2.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\POST LAP 2\POST LAP 2\obj\Debug\POST_LAP_2.Form1.resources
+C:\Users\Ahmad\Desktop\POST LAP 2\POST LAP 2\obj\Debug\POST_LAP_2.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\POST LAP 2\POST LAP 2\obj\Debug\POST LAP 2.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\POST LAP 2\POST LAP 2\obj\Debug\POST LAP 2.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\POST LAP 2\POST LAP 2\obj\Debug\POST LAP 2.exe
+C:\Users\Ahmad\Desktop\POST LAP 2\POST LAP 2\obj\Debug\POST LAP 2.pdb
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAP 2\POST LAP 2\bin\Debug\POST LAP 2.exe.config
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAP 2\POST LAP 2\bin\Debug\POST LAP 2.exe
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAP 2\POST LAP 2\bin\Debug\POST LAP 2.pdb
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAP 2\POST LAP 2\obj\Debug\POST LAP 2.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAP 2\POST LAP 2\obj\Debug\POST_LAP_2.Form1.resources
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAP 2\POST LAP 2\obj\Debug\POST_LAP_2.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAP 2\POST LAP 2\obj\Debug\POST LAP 2.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAP 2\POST LAP 2\obj\Debug\POST LAP 2.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAP 2\POST LAP 2\obj\Debug\POST LAP 2.exe
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAP 2\POST LAP 2\obj\Debug\POST LAP 2.pdb

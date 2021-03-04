@@ -1,0 +1,39 @@
+﻿Build started 11/27/2017 6:47:38 PM.
+     1>Project "C:\Users\Ahmad\Desktop\Post_Lap7_Ahmad_Mahameed\Post_Lap7_Ahmad_Mahameed\Post_Lap7_Ahmad_Mahameed.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Post_Lap7_Ahmad_Mahameed.unsuccessfulbuild".
+       ClCompile:
+         d:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Mainn.cpp PersonImp.cpp StudentImp.cpp UniversityImp.cpp
+         UniversityImp.cpp
+         StudentImp.cpp
+         PersonImp.cpp
+         Generating Code...
+         Compiling...
+         Mainn.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Post_Lap7_Ahmad_Mahameed.exe.embed.manifest.res" Debug\Post_Lap7_Ahmad_Mahameed_manifest.rc 
+       Link:
+         d:\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ahmad\Desktop\Post_Lap7_Ahmad_Mahameed\Debug\Post_Lap7_Ahmad_Mahameed.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Post_Lap7_Ahmad_Mahameed.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Ahmad\Desktop\Post_Lap7_Ahmad_Mahameed\Debug\Post_Lap7_Ahmad_Mahameed.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ahmad\Desktop\Post_Lap7_Ahmad_Mahameed\Debug\Post_Lap7_Ahmad_Mahameed.lib" /MACHINE:X86 Debug\Post_Lap7_Ahmad_Mahameed.exe.embed.manifest.res
+         Debug\Mainn.obj
+         Debug\PersonImp.obj
+         Debug\StudentImp.obj
+         Debug\UniversityImp.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Post_Lap7_Ahmad_Mahameed.exe.embed.manifest" /manifest Debug\Post_Lap7_Ahmad_Mahameed.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Post_Lap7_Ahmad_Mahameed.exe.embed.manifest.res" Debug\Post_Lap7_Ahmad_Mahameed_manifest.rc 
+       LinkEmbedManifest:
+         d:\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ahmad\Desktop\Post_Lap7_Ahmad_Mahameed\Debug\Post_Lap7_Ahmad_Mahameed.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Post_Lap7_Ahmad_Mahameed.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Ahmad\Desktop\Post_Lap7_Ahmad_Mahameed\Debug\Post_Lap7_Ahmad_Mahameed.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ahmad\Desktop\Post_Lap7_Ahmad_Mahameed\Debug\Post_Lap7_Ahmad_Mahameed.lib" /MACHINE:X86 Debug\Post_Lap7_Ahmad_Mahameed.exe.embed.manifest.res
+         Debug\Mainn.obj
+         Debug\PersonImp.obj
+         Debug\StudentImp.obj
+         Debug\UniversityImp.obj
+         Post_Lap7_Ahmad_Mahameed.vcxproj -> C:\Users\Ahmad\Desktop\Post_Lap7_Ahmad_Mahameed\Debug\Post_Lap7_Ahmad_Mahameed.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Post_Lap7_Ahmad_Mahameed.unsuccessfulbuild".
+         Touching "Debug\Post_Lap7_Ahmad_Mahameed.lastbuildstate".
+     1>Done Building Project "C:\Users\Ahmad\Desktop\Post_Lap7_Ahmad_Mahameed\Post_Lap7_Ahmad_Mahameed\Post_Lap7_Ahmad_Mahameed.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.14

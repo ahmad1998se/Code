@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="EMPLOYEEDATABASE" Class="MYDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Ahmad\Desktop\Lap_2\final\10\AHMAD_MAHAMEED_DATA\AHMAD_MAHAMEED_DATA\EMPLOYEEDATABASE.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="AHMAD_MAHAMEED_DATA.Properties.Settings" SettingsPropertyName="EMPLOYEEDATABASEConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.EmployeeCard" Member="EmployeeCards">
+    <Type Name="EmployeeCard">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="JobTitle" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Salary" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="ssn" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="PersonalCard_EmployeeCard" Member="PersonalCard" ThisKey="ssn" OtherKey="SSN" Type="PersonalCard" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PersonalCard" Member="PersonalCards">
+    <Type Name="PersonalCard">
+      <Column Name="SSN" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Gender" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="Bdate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="BPlace" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="MotherName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="FullName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="PersonalCard_EmployeeCard" Member="EmployeeCards" ThisKey="SSN" OtherKey="ssn" Type="EmployeeCard" />
+    </Type>
+  </Table>
+</Database>

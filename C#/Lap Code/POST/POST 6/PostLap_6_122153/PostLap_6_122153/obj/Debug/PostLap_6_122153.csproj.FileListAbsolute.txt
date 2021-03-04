@@ -1,0 +1,11 @@
+C:\Users\Ahmad\Desktop\PostLap_6_122153\PostLap_6_122153\bin\Debug\PostLap_6_122153.exe.config
+C:\Users\Ahmad\Desktop\PostLap_6_122153\PostLap_6_122153\bin\Debug\PostLap_6_122153.exe
+C:\Users\Ahmad\Desktop\PostLap_6_122153\PostLap_6_122153\bin\Debug\PostLap_6_122153.pdb
+C:\Users\Ahmad\Desktop\PostLap_6_122153\PostLap_6_122153\obj\Debug\PostLap_6_122153.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\PostLap_6_122153\PostLap_6_122153\obj\Debug\PostLap_6_122153.Form1.resources
+C:\Users\Ahmad\Desktop\PostLap_6_122153\PostLap_6_122153\obj\Debug\PostLap_6_122153.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\PostLap_6_122153\PostLap_6_122153\obj\Debug\PostLap_6_122153.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\PostLap_6_122153\PostLap_6_122153\obj\Debug\PostLap_6_122153.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\PostLap_6_122153\PostLap_6_122153\obj\Debug\PostLap_6_122153.exe
+C:\Users\Ahmad\Desktop\PostLap_6_122153\PostLap_6_122153\obj\Debug\PostLap_6_122153.pdb
+C:\Users\Ahmad\Desktop\PostLap_6_122153\PostLap_6_122153\obj\Debug\PostLap_6_122153.SizeForm.resources

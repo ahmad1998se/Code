@@ -1,0 +1,19 @@
+C:\Users\Teacher\Desktop\shahed\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe.config
+C:\Users\Teacher\Desktop\shahed\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe
+C:\Users\Teacher\Desktop\shahed\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.pdb
+C:\Users\Teacher\Desktop\shahed\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\shahed\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Form1.resources
+C:\Users\Teacher\Desktop\shahed\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Properties.Resources.resources
+C:\Users\Teacher\Desktop\shahed\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csproj.GenerateResource.Cache
+C:\Users\Teacher\Desktop\shahed\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.exe
+C:\Users\Teacher\Desktop\shahed\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.pdb
+C:\Users\Ahmad\Desktop\Lap_2\final\9\WindowsFormsApplication18 (1)\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe.config
+C:\Users\Ahmad\Desktop\Lap_2\final\9\WindowsFormsApplication18 (1)\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe
+C:\Users\Ahmad\Desktop\Lap_2\final\9\WindowsFormsApplication18 (1)\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.pdb
+C:\Users\Ahmad\Desktop\Lap_2\final\9\WindowsFormsApplication18 (1)\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Lap_2\final\9\WindowsFormsApplication18 (1)\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Form1.resources
+C:\Users\Ahmad\Desktop\Lap_2\final\9\WindowsFormsApplication18 (1)\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\Lap_2\final\9\WindowsFormsApplication18 (1)\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\Lap_2\final\9\WindowsFormsApplication18 (1)\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Lap_2\final\9\WindowsFormsApplication18 (1)\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.exe
+C:\Users\Ahmad\Desktop\Lap_2\final\9\WindowsFormsApplication18 (1)\WindowsFormsApplication18\WindowsFormsApplication18\obj\Debug\WindowsFormsApplication18.pdb

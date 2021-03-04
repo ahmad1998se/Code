@@ -1,0 +1,12 @@
+C:\Users\seexam\Desktop\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\bin\Debug\Ahmad_Mahameed_122153.exe.config
+C:\Users\seexam\Desktop\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\bin\Debug\Ahmad_Mahameed_122153.exe
+C:\Users\seexam\Desktop\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\bin\Debug\Ahmad_Mahameed_122153.pdb
+C:\Users\seexam\Desktop\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\obj\Debug\Ahmad_Mahameed_122153.exe
+C:\Users\seexam\Desktop\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\obj\Debug\Ahmad_Mahameed_122153.pdb
+C:\Users\Ahmad\Desktop\Lap_2\POST\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\bin\Debug\Ahmad_Mahameed_122153.exe.config
+C:\Users\Ahmad\Desktop\Lap_2\POST\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\bin\Debug\Ahmad_Mahameed_122153.exe
+C:\Users\Ahmad\Desktop\Lap_2\POST\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\bin\Debug\Ahmad_Mahameed_122153.pdb
+C:\Users\Ahmad\Desktop\Lap_2\POST\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\obj\Debug\Ahmad_Mahameed_122153.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Lap_2\POST\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\obj\Debug\Ahmad_Mahameed_122153.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Lap_2\POST\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\obj\Debug\Ahmad_Mahameed_122153.exe
+C:\Users\Ahmad\Desktop\Lap_2\POST\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\obj\Debug\Ahmad_Mahameed_122153.pdb

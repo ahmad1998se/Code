@@ -1,0 +1,77 @@
+from tkinter import  *
+from tkinter import ttk
+
+root=Tk()
+root.title("“q3.py")
+
+
+ttk.Label(root,text="Expression",background="black",foreground="white").grid(row=0,column=0,sticky='snew',ipadx=50,ipady=7)
+
+ttk.Label(root,text="float(4)  = ",background="gray50",foreground="white").grid(row=1,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="int(5.3)  = ",background="gray25",foreground="white").grid(row=2,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="float(\"4\")  = ",background="gray50",foreground="white").grid(row=3,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="int(\"5\")  =",background="gray25",foreground="white").grid(row=4,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="int(True)  =",background="gray50",foreground="white").grid(row=5,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="float(True)  =",background="gray25",foreground="white").grid(row=6,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="int(False)  =",background="gray50",foreground="white").grid(row=7,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="float(int(5.3))  =",background="gray25",foreground="white").grid(row=8,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="int(5.7)  =",background="gray50",foreground="white").grid(row=9,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="float(7) // 4  =",background="gray25",foreground="white").grid(row=10,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="int(7 / 4)  =",background="gray50",foreground="white").grid(row=11,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="6.2 and False  =",background="gray25",foreground="white").grid(row=12,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="True and 6.2  =",background="gray50",foreground="white").grid(row=13,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="type(4.5)  =",background="gray25",foreground="white").grid(row=14,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="type(3)  =",background="gray50",foreground="white").grid(row=15,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="type(True)  =",background="gray25",foreground="white").grid(row=16,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="type(False)  =",background="gray50",foreground="white").grid(row=17,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="type(not 1)  =",background="gray25",foreground="white").grid(row=18,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="type(not(0))  =",background="gray50",foreground="white").grid(row=19,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="type(True and 3)  =",background="gray25",foreground="white").grid(row=20,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="type(None)  =",background="gray50",foreground="white").grid(row=21,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="type([])  =",background="gray25",foreground="white").grid(row=22,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="type(())  =",background="gray50",foreground="white").grid(row=23,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="type({})  =",background="gray25",foreground="white").grid(row=24,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="type(NotImplemented)  =",background="gray50",foreground="white").grid(row=25,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="type(bool())  =",background="gray25",foreground="white").grid(row=26,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="bool(10)  =",background="gray50",foreground="white").grid(row=27,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="bool(0)  =",background="gray25",foreground="white").grid(row=28,column=0,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text="bool(-5)  =",background="gray50",foreground="white").grid(row=29,column=0,sticky='snew',ipadx=50,ipady=7)
+
+ttk.Label(root,text="Result",background="black",foreground="white").grid(row=0,column=1,sticky='snew',ipadx=50,ipady=7)
+
+
+ttk.Label(root,text=float(4),background="gray50",foreground="white").grid(row=1,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=int(5.3),background="gray25",foreground="white").grid(row=2,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=float("4"),background="gray50",foreground="white").grid(row=3,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=int("5"),background="gray25",foreground="white").grid(row=4,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=int(True) ,background="gray50",foreground="white").grid(row=5,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=float(True),background="gray25",foreground="white").grid(row=6,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=int(False),background="gray50",foreground="white").grid(row=7,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=float(int(5.3)),background="gray25",foreground="white").grid(row=8,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=int(5.7),background="gray50",foreground="white").grid(row=9,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=float(7) // 4,background="gray25",foreground="white").grid(row=10,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=int(7 / 4) ,background="gray50",foreground="white").grid(row=11,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=6.2 and False,background="gray25",foreground="white").grid(row=12,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=True and 6.2,background="gray50",foreground="white").grid(row=13,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=type(4.5),background="gray25",foreground="white").grid(row=14,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=type(3),background="gray50",foreground="white").grid(row=15,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=type(True) ,background="gray25",foreground="white").grid(row=16,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=type(False),background="gray50",foreground="white").grid(row=17,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=type(not 1),background="gray25",foreground="white").grid(row=18,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=type(not(0)),background="gray50",foreground="white").grid(row=19,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=type(True and 3),background="gray25",foreground="white").grid(row=20,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=type(None),background="gray50",foreground="white").grid(row=21,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=type([]) ,background="gray25",foreground="white").grid(row=22,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=type(()) ,background="gray50",foreground="white").grid(row=23,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=type({}),background="gray25",foreground="white").grid(row=24,column=1,sticky='snew',ipadx=50,ipady=7)
+
+ttk.Label(root,text=type(NotImplemented) ,background="gray50",foreground="white").grid(row=25,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=type(bool()),background="gray25",foreground="white").grid(row=26,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=bool(10),background="gray50",foreground="white").grid(row=27,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=bool(0) ,background="gray25",foreground="white").grid(row=28,column=1,sticky='snew',ipadx=50,ipady=7)
+ttk.Label(root,text=bool(-5),background="gray50",foreground="white").grid(row=29,column=1,sticky='snew',ipadx=50,ipady=7)
+
+
+
+
+root.mainloop()

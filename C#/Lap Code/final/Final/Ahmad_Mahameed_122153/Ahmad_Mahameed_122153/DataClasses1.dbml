@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Company" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Company.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="Ahmad_Mahameed_122153.Properties.Settings" SettingsPropertyName="CompanyConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Dependent" Member="Dependents">
+    <Type Name="Dependent">
+      <Column Name="Dependent_SSN" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Dependemt_Name" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Gender" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="Relation" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="ESSN" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Employee_Dependent" Member="Employee" ThisKey="ESSN" OtherKey="SSN" Type="Employee" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Employee" Member="Employees">
+    <Type Name="Employee">
+      <Column Name="SSN" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Fname" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Minit" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Lname" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Gender" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="Salary" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="Employee_Dependent" Member="Dependents" ThisKey="SSN" OtherKey="ESSN" Type="Dependent" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+     <SSN>7171</SSN>
+     <Fname>Majida</Fname>
+	  <Minit>R</Minit>
+	  <Lname>Khaled</Lname>
+	  <Address>Amman</Address>
+	  <Gender>F</Gender>
+	  <Salary>1550</Salary>
+	</Employee>
+	  <Employee>
+     <SSN>7172</SSN>
+     <Fname>Nour</Fname>
+	  <Minit>R</Minit>
+	  <Lname>khasawneh</Lname>
+	  <Address>Amman</Address>
+	  <Gender>F</Gender>
+	  <Salary>1500</Salary>
+	</Employee>
+	  <Employee>
+     <SSN>7173</SSN>
+     <Fname>Raed</Fname>
+	  <Minit>R</Minit>
+	  <Lname>diaa</Lname>
+	  <Address>Amman</Address>
+	  <Gender>F</Gender>
+	  <Salary>1540</Salary>
+	</Employee>
+	  <Employee>
+     <SSN>7174</SSN>
+     <Fname>Kareem</Fname>
+	  <Minit>R</Minit>
+	  <Lname>Mohammad</Lname>
+	  <Address>Amman</Address>
+	  <Gender>M</Gender>
+	  <Salary>1540</Salary>
+	</Employee>
+</ArrayOfEmployee>

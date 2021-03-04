@@ -1,0 +1,20 @@
+<taglib>
+  <tlib-version>0.0</tlib-version>
+  <jsp-version>1.1</jsp-version>
+  <tag>
+      <name>tag_library</name>
+      <tag-class>classes.tag_handler</tag-class>
+      
+      <body-content>empty</body-content>
+
+      <attribute>
+         <name>ID</name>  
+         <required>true</required>  
+      
+      </attribute>
+      <attribute>
+         <name>Name</name>        
+      </attribute>
+      
+  </tag>
+</taglib>

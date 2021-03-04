@@ -1,0 +1,14 @@
+C:\Users\csexam\Desktop\Final\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\bin\Debug\Ahmad_Mahameed_122153.exe.config
+C:\Users\Ahmad\Desktop\Final\Final\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\obj\Debug\Ahmad_Mahameed_122153.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Final\Final\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\obj\Debug\Ahmad_Mahameed_122153.ADD_Dep.resources
+C:\Users\Ahmad\Desktop\Final\Final\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\obj\Debug\Ahmad_Mahameed_122153.Form1.resources
+C:\Users\Ahmad\Desktop\Final\Final\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\obj\Debug\Ahmad_Mahameed_122153.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\Final\Final\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\obj\Debug\Ahmad_Mahameed_122153.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\Final\Final\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\obj\Debug\Ahmad_Mahameed_122153.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Final\Final\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\bin\Debug\Ahmad_Mahameed_122153.exe.config
+C:\Users\Ahmad\Desktop\Final\Final\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\bin\Debug\Ahmad_Mahameed_122153.exe
+C:\Users\Ahmad\Desktop\Final\Final\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\bin\Debug\Ahmad_Mahameed_122153.pdb
+C:\Users\Ahmad\Desktop\Final\Final\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\obj\Debug\Ahmad_Mahameed_122153.exe
+C:\Users\Ahmad\Desktop\Final\Final\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\obj\Debug\Ahmad_Mahameed_122153.pdb
+C:\Users\Ahmad\Desktop\Final\Final\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\bin\Debug\Company.mdf
+C:\Users\Ahmad\Desktop\Final\Final\Ahmad_Mahameed_122153\Ahmad_Mahameed_122153\bin\Debug\Company_log.ldf

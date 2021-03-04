@@ -1,0 +1,22 @@
+C:\Users\Ahmad\Desktop\Post-Lap-1\Post-Lap-1\bin\Debug\netcoreapp2.1\Post-Lap-1.deps.json
+C:\Users\Ahmad\Desktop\Post-Lap-1\Post-Lap-1\bin\Debug\netcoreapp2.1\Post-Lap-1.runtimeconfig.json
+C:\Users\Ahmad\Desktop\Post-Lap-1\Post-Lap-1\bin\Debug\netcoreapp2.1\Post-Lap-1.runtimeconfig.dev.json
+C:\Users\Ahmad\Desktop\Post-Lap-1\Post-Lap-1\bin\Debug\netcoreapp2.1\Post-Lap-1.dll
+C:\Users\Ahmad\Desktop\Post-Lap-1\Post-Lap-1\bin\Debug\netcoreapp2.1\Post-Lap-1.pdb
+C:\Users\Ahmad\Desktop\Post-Lap-1\Post-Lap-1\obj\Debug\netcoreapp2.1\Post-Lap-1.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Post-Lap-1\Post-Lap-1\obj\Debug\netcoreapp2.1\Post-Lap-1.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Post-Lap-1\Post-Lap-1\obj\Debug\netcoreapp2.1\Post-Lap-1.AssemblyInfoInputs.cache
+C:\Users\Ahmad\Desktop\Post-Lap-1\Post-Lap-1\obj\Debug\netcoreapp2.1\Post-Lap-1.AssemblyInfo.cs
+C:\Users\Ahmad\Desktop\Post-Lap-1\Post-Lap-1\obj\Debug\netcoreapp2.1\Post-Lap-1.dll
+C:\Users\Ahmad\Desktop\Post-Lap-1\Post-Lap-1\obj\Debug\netcoreapp2.1\Post-Lap-1.pdb
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST 1\Post-Lap-1\Post-Lap-1\bin\Debug\netcoreapp2.1\Post-Lap-1.deps.json
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST 1\Post-Lap-1\Post-Lap-1\bin\Debug\netcoreapp2.1\Post-Lap-1.runtimeconfig.json
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST 1\Post-Lap-1\Post-Lap-1\bin\Debug\netcoreapp2.1\Post-Lap-1.runtimeconfig.dev.json
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST 1\Post-Lap-1\Post-Lap-1\bin\Debug\netcoreapp2.1\Post-Lap-1.dll
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST 1\Post-Lap-1\Post-Lap-1\bin\Debug\netcoreapp2.1\Post-Lap-1.pdb
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST 1\Post-Lap-1\Post-Lap-1\obj\Debug\netcoreapp2.1\Post-Lap-1.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST 1\Post-Lap-1\Post-Lap-1\obj\Debug\netcoreapp2.1\Post-Lap-1.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST 1\Post-Lap-1\Post-Lap-1\obj\Debug\netcoreapp2.1\Post-Lap-1.AssemblyInfoInputs.cache
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST 1\Post-Lap-1\Post-Lap-1\obj\Debug\netcoreapp2.1\Post-Lap-1.AssemblyInfo.cs
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST 1\Post-Lap-1\Post-Lap-1\obj\Debug\netcoreapp2.1\Post-Lap-1.dll
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST 1\Post-Lap-1\Post-Lap-1\obj\Debug\netcoreapp2.1\Post-Lap-1.pdb

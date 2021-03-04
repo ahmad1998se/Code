@@ -1,0 +1,30 @@
+C:\Users\Ahmad\Desktop\POST LAB_4\POST LAB_4\bin\Debug\POST LAB_4.exe.config
+C:\Users\Ahmad\Desktop\POST LAB_4\POST LAB_4\bin\Debug\POST LAB_4.exe
+C:\Users\Ahmad\Desktop\POST LAB_4\POST LAB_4\bin\Debug\POST LAB_4.pdb
+C:\Users\Ahmad\Desktop\POST LAB_4\POST LAB_4\obj\Debug\POST LAB_4.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\POST LAB_4\POST LAB_4\obj\Debug\POST_LAB_4.Form1.resources
+C:\Users\Ahmad\Desktop\POST LAB_4\POST LAB_4\obj\Debug\POST_LAB_4.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\POST LAB_4\POST LAB_4\obj\Debug\POST LAB_4.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\POST LAB_4\POST LAB_4\obj\Debug\POST LAB_4.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\POST LAB_4\POST LAB_4\obj\Debug\POST LAB_4.exe
+C:\Users\Ahmad\Desktop\POST LAB_4\POST LAB_4\obj\Debug\POST LAB_4.pdb
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\POST LAB_4\POST LAB_4\bin\Debug\POST LAB_4.exe.config
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\POST LAB_4\POST LAB_4\bin\Debug\POST LAB_4.exe
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\POST LAB_4\POST LAB_4\bin\Debug\POST LAB_4.pdb
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\POST LAB_4\POST LAB_4\obj\Debug\POST LAB_4.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\POST LAB_4\POST LAB_4\obj\Debug\POST_LAB_4.Form1.resources
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\POST LAB_4\POST LAB_4\obj\Debug\POST_LAB_4.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\POST LAB_4\POST LAB_4\obj\Debug\POST LAB_4.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\POST LAB_4\POST LAB_4\obj\Debug\POST LAB_4.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\POST LAB_4\POST LAB_4\obj\Debug\POST LAB_4.exe
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\POST LAB_4\POST LAB_4\obj\Debug\POST LAB_4.pdb
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAB_4\POST LAB_4\bin\Debug\POST LAB_4.exe.config
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAB_4\POST LAB_4\bin\Debug\POST LAB_4.exe
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAB_4\POST LAB_4\bin\Debug\POST LAB_4.pdb
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAB_4\POST LAB_4\obj\Debug\POST LAB_4.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAB_4\POST LAB_4\obj\Debug\POST_LAB_4.Form1.resources
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAB_4\POST LAB_4\obj\Debug\POST_LAB_4.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAB_4\POST LAB_4\obj\Debug\POST LAB_4.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAB_4\POST LAB_4\obj\Debug\POST LAB_4.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAB_4\POST LAB_4\obj\Debug\POST LAB_4.exe
+C:\Users\Ahmad\Desktop\Lap_2\POST\POST LAB_4\POST LAB_4\obj\Debug\POST LAB_4.pdb

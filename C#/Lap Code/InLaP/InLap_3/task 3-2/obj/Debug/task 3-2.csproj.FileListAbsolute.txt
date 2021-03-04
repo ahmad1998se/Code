@@ -1,0 +1,29 @@
+C:\Users\hp\Documents\material\325_DropBox\2020\3-3\task 3-2\task 3-2\bin\Debug\task 3-2.exe.config
+C:\Users\hp\Documents\material\325_DropBox\2020\3-3\task 3-2\task 3-2\bin\Debug\task 3-2.exe
+C:\Users\hp\Documents\material\325_DropBox\2020\3-3\task 3-2\task 3-2\bin\Debug\task 3-2.pdb
+C:\Users\hp\Documents\material\325_DropBox\2020\3-3\task 3-2\task 3-2\obj\Debug\task 3-2.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\material\325_DropBox\2020\3-3\task 3-2\task 3-2\obj\Debug\task_3_2.Form1.resources
+C:\Users\hp\Documents\material\325_DropBox\2020\3-3\task 3-2\task 3-2\obj\Debug\task_3_2.Properties.Resources.resources
+C:\Users\hp\Documents\material\325_DropBox\2020\3-3\task 3-2\task 3-2\obj\Debug\task 3-2.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\material\325_DropBox\2020\3-3\task 3-2\task 3-2\obj\Debug\task 3-2.exe
+C:\Users\hp\Documents\material\325_DropBox\2020\3-3\task 3-2\task 3-2\obj\Debug\task 3-2.pdb
+C:\Users\Ahmad\Desktop\In_Lap_2\task 3-2\bin\Debug\task 3-2.exe.config
+C:\Users\Ahmad\Desktop\In_Lap_2\task 3-2\bin\Debug\task 3-2.exe
+C:\Users\Ahmad\Desktop\In_Lap_2\task 3-2\bin\Debug\task 3-2.pdb
+C:\Users\Ahmad\Desktop\In_Lap_2\task 3-2\obj\Debug\task 3-2.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\In_Lap_2\task 3-2\obj\Debug\task_3_2.Form1.resources
+C:\Users\Ahmad\Desktop\In_Lap_2\task 3-2\obj\Debug\task_3_2.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\In_Lap_2\task 3-2\obj\Debug\task 3-2.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\In_Lap_2\task 3-2\obj\Debug\task 3-2.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\In_Lap_2\task 3-2\obj\Debug\task 3-2.exe
+C:\Users\Ahmad\Desktop\In_Lap_2\task 3-2\obj\Debug\task 3-2.pdb
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\In_Lap_2\task 3-2\bin\Debug\task 3-2.exe.config
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\In_Lap_2\task 3-2\bin\Debug\task 3-2.exe
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\In_Lap_2\task 3-2\bin\Debug\task 3-2.pdb
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\In_Lap_2\task 3-2\obj\Debug\task 3-2.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\In_Lap_2\task 3-2\obj\Debug\task_3_2.Form1.resources
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\In_Lap_2\task 3-2\obj\Debug\task_3_2.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\In_Lap_2\task 3-2\obj\Debug\task 3-2.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\In_Lap_2\task 3-2\obj\Debug\task 3-2.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\In_Lap_2\task 3-2\obj\Debug\task 3-2.exe
+C:\Users\Ahmad\Desktop\Lap_2\InLaP\In_Lap_2\task 3-2\obj\Debug\task 3-2.pdb

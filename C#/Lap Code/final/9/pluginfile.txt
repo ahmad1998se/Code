@@ -1,0 +1,7 @@
+TopLeft			LowerRight	shapetype
+(70,112)		(162,199)   	rect
+(249,211)		(325,286)   	rect
+(169,293)		(223,343)   	rect
+(444,241)		(536,370)   	ellipse
+(584,121)		(733,159)   	ellipse
+(688,219)		(855,381)   	ellipse

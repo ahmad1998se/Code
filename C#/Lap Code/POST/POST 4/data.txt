@@ -1,0 +1,39 @@
+12.3 john,b,smith,123456789,1/9/1965 ,731 fondren,houston,tx,m         ,30000,333445555,5,123456789,alice,f         ,12/30/1988 ,daughter
+franklin,T,wong,333445555,12/8/1955 ,638 voss,houston,tx,m         ,40000,888665555,5,123456789,elizabith,f         ,5/5/1967 ,spouse
+123456789,michael,m         ,1/4/1988 ,son joyce,A,english,453453453,7/31/1972 ,3321 castle,spring,tx,f         ,25000,333445555,5,
+ramesh,K,Narayan,666884444,9/15/1962 ,291 berry,bellaire,tx,m         ,38000,333445555,5,
+james,e,borg,888665555,11/10/1937 ,975 fire oak,humble,tx,m         ,55000,,1,
+jennifer,S,wallace,987654321,6/20/1941 ,5631 rice,houston,tx,f;333445555,joy,f         ,3/5/1958 ,spouse 333445555,theodore,m         ,10/25/1983 ,son;987654321,abner,m         ,2/28/1942 ,spouse         ,43000,888665555,4,
+ahmad,v,jaber,987987987,3/29/1969 ,980 dallas,houston,tx,m         ,25000,987654321,4,
+Alicia,J,zelaya,999887777,7/19/1968 ,450 stone,houston,tx,f;333445555,alice,f         ,4/5/1986 ,daughter         ,25000,987654321,4,12.3 john,b,smith,123456789,1/9/1965 ,731 fondren,houston,tx,m         ,30000,333445555,5,123456789,alice,f         ,12/30/1988 ,daughter
+franklin,T,wong,333445555,12/8/1955 ,638 voss,houston,tx,m         ,40000,888665555,5,123456789,elizabith,f         ,5/5/1967 ,spouse
+123456789,michael,m         ,1/4/1988 ,son joyce,A,english,453453453,7/31/1972 ,3321 castle,spring,tx,f         ,25000,333445555,5,
+ramesh,K,Narayan,666884444,9/15/1962 ,291 berry,bellaire,tx,m         ,38000,333445555,5,
+james,e,borg,888665555,11/10/1937 ,975 fire oak,humble,tx,m         ,55000,,1,
+jennifer,S,wallace,987654321,6/20/1941 ,5631 rice,houston,tx,f; civic     refer    333445555,joy,f         ,3/5/1958 ,spouse 333445555,theodore,m         ,10/25/1983 ,son;987654321,abner,m         ,2/28/1942 ,spouse         ,43000,888665555,4,
+ahmad,v,jaber,987987987,3/29/1969 ,980 dallas,houston,tx,m         ,25000,987654321,4,
+Alicia,J,zelaya,999887777,7/19/1968 ,450 stone,houston,tx,f;333445555,alice,f         ,4/5/1986 ,daughter         ,25000,987654321,4,james,e,borg,888665555,11/10/1937 ,975 fire oak,humble,tx,m         ,55000,,1,
+jennifer,S,wallace,987654321,6/20/1941 ,5631 rice,houston,tx,f;333445555,joy,f         ,3/5/1958 ,spouse 333445555,theodore,m         ,10/25/1983 ,son;987654321,abner,m         ,2/28/1942 ,spouse         ,43000,888665555,4,
+ahmad,v,jaber,987987987,3/29/1969 ,980 dallas,houston,tx,m         ,25000,987654321,4,
+Alicia,J,zelaya,999887777,7/19/1968 ,450 stone,houston,tx,f;333445555,alice,f         ,4/5/1986 ,daughter         ,25000,987654321,4,12.3 john,b,smith,123456789,1/9/1965 ,731 fondren,houston,tx,m         ,30000,333445555,5,123456789,alice,f         ,12/30/1988 ,daughter
+franklin,T,wong,333445555,12/8/1955 ,638 voss,houston,tx,m         ,40000,888665555,5,123456789,elizabith,f         ,5/5/1967 ,spouse
+123456789,michael,m         ,1/4/1988 ,son joyce,A,english,453453453,7/31/1972 ,3321 castle,spring,tx,f         ,25000,333445555,5;,888665555,11/10/1937 ,975 fire oak,humble,tx,m         ,55000,,1,
+jennifer,S,wallace,987654321,6/20/1941 ,5631 rice,houston,tx,f;333445555,joy,f         ,3/5/1958 ,spouse 333445555,theodore,m         ,10/25/1983 ,son;987654321,abner,m         ,2/28/1942 ,spouse         ,43000,888665555,4,
+ahmad,v,jaber,987987987,3/29/1969 ,980 dallas,houston,tx,m         ,25000,987654321,4,
+Alicia,J,zelaya,999887777,7/19/1968 ,450 stone,houston,tx,f;333445555,alice,f         ,4/5/1986 ,daughter         ,25000,987654321,4,12.3 john,b,smith,123456789,1/9/1965 ,731 fondren,houston,tx,m         ,30000,333445555,5,123456789,alice,f         ,12/30/1988 ,daughter
+franklin,T,wong,333445555,12/8/1955 ,638 voss,houston,tx,m         ,40000,888665555,5,123456789,elizabith,f         ,5/5/1967 ,spouse
+123456789,michael,m         ,1/4/1988 ,son joyce,A,english,453453453,7/31/1972 ,3321 castle,spring,tx,f         ,25000,333445555,5,
+ramesh,K,Narayan,666884444,9/15/1962 ,291 berry,bellaire,tx,m         ,38000,333445555,5,
+james,e,borg,888665555,11/10/1937 ,975 fire oak,humble,tx,m         ,55000,,1,
+jennifer,S,wallace,987654321,6/20/1941 ,5631 rice,houston,tx,f;333445555,joy,f         ,3/5/1958 ,spouse 333445555,theodore,m   ,888665555,11/10/1937 ,975 fire oak,humble,tx,m         ,55000,,1,
+jennifer,S,wallace,987654321,6/20/1941 ,5631 rice,houston,tx,f;333445555,joy,f         ,3/5/1958 ,spouse 333445555,theodore,m         ,10/25/1983 ,son;987654321,abner,m         ,2/28/1942 ,spouse         ,43000,888665555,4,
+ahmad,v,jaber,987987987,3/29/1969 ,980 dallas,houston,tx,m         ,25000,987654321,4,
+Alicia,J,zelaya,999887777,7/19/1968 ,450 stone,houston,tx,f;333445555,alice,f         ,4/5/1986 ,daughter         ,25000,987654321,4,12.3 john,b,smith,123456789,1/9/1965 ,731 fondren,houston,tx,m         ,30000,333445555,5,123456789,alice,f         ,12/30/1988 ,daughter
+franklin,T,wong,333445555,12/8/1955 ,638 voss,houston,tx,m         ,40000,888665555,5,123456789,elizabith,f         ,5/5/1967 ,spouse
+123456789,michael,m         ,1/4/1988 ,son joyce,A,english,453453453,7/31/1972 ,3321 castle,spring,tx,f         ,25000,333445555,5,
+ramesh,K,Narayan,666884444,9/15/1962 ,291 berry,bellaire,tx,m         ,38000,333445555,5,
+james,e,borg,888665555,11/10/1937 ,975 fire oak,humble,tx,m         ,55000,,1,
+jennifer,S,wallace,987654321,6/20/1941 ,5631 rice,houston,tx,f;333445555,joy,f         ,3/5/1958 ,spouse 333445555,theodore,m,ahmad,v,jaber,987987987,3/29/1969 ,980 dallas,houston,tx,m         ,25000,987654321,4,
+Alicia,J,zelaya,999887777,7/19/1968 ,450 stone,houston,tx,f;333445555,alice,f         ,4/5/1986 ,daughter         ,25000,987654321,4,12.3 john,b,smith,123456789,1/9/1965 ,731 fondren,houston,tx,m         ,30000,333445555,5,123456789,alice,f         ,12/30/1988 ,daughter
+franklin,T,wong,333445555,12/8/1955 ,638 voss,houston,tx,m         ,40000,888665555,5,123456789,elizabith,f         ,5/5/1967 ,spouse
+123456789,michael,m         ,1/4/1988 ,son joyce,A,english,453453453,7/31/1972 ,3321 castle,spring,tx,f   

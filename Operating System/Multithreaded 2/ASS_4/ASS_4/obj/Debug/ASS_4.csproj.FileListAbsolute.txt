@@ -1,0 +1,10 @@
+C:\Users\Ahmad\Desktop\CS375_Ass#4_122153_Y\ASS_4\ASS_4\obj\Debug\ASS_4.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\CS375_Ass#4_122153_Y\ASS_4\ASS_4\obj\Debug\ASS_4.Form1.resources
+C:\Users\Ahmad\Desktop\CS375_Ass#4_122153_Y\ASS_4\ASS_4\obj\Debug\ASS_4.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\CS375_Ass#4_122153_Y\ASS_4\ASS_4\obj\Debug\ASS_4.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\CS375_Ass#4_122153_Y\ASS_4\ASS_4\obj\Debug\ASS_4.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\CS375_Ass#4_122153_Y\ASS_4\ASS_4\bin\Debug\ASS_4.exe.config
+C:\Users\Ahmad\Desktop\CS375_Ass#4_122153_Y\ASS_4\ASS_4\bin\Debug\ASS_4.exe
+C:\Users\Ahmad\Desktop\CS375_Ass#4_122153_Y\ASS_4\ASS_4\bin\Debug\ASS_4.pdb
+C:\Users\Ahmad\Desktop\CS375_Ass#4_122153_Y\ASS_4\ASS_4\obj\Debug\ASS_4.exe
+C:\Users\Ahmad\Desktop\CS375_Ass#4_122153_Y\ASS_4\ASS_4\obj\Debug\ASS_4.pdb

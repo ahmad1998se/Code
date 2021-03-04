@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MYDB">
+  <DataContextMoniker Name="/MYDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b181ada4-951b-467f-a45f-3cd04ada9d9e" absoluteBounds="2.875, 3.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/MYDBDataContext/EmployeeCard" />
+      <nestedChildShapes>
+        <elementListCompartment Id="804bdc3c-969c-4c58-9098-7bf3aa9b048a" absoluteBounds="2.89, 3.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="74148fc5-786f-460c-8717-ef88d4081298" absoluteBounds="0.5, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/MYDBDataContext/PersonalCard" />
+      <nestedChildShapes>
+        <elementListCompartment Id="34d356a8-8615-4066-9d9a-d1e63971e9eb" absoluteBounds="0.51500000000000012, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.5 : 2.7131982421875); (2.875 : 3.25)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MYDBDataContext/PersonalCard/PersonalCard_EmployeeCard" />
+      <nodes>
+        <classShapeMoniker Id="74148fc5-786f-460c-8717-ef88d4081298" />
+        <classShapeMoniker Id="b181ada4-951b-467f-a45f-3cd04ada9d9e" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

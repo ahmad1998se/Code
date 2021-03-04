@@ -1,0 +1,10 @@
+ *CS375_Ass#3_X_Y.doc
+ *fully documented source codes
+*print screen for the final output of each part  short discussion on the final results you got.
+*list of num avg min max
+ globally var
+ thread
+The average value is 82
+The minimum value is 72
+The maximum value is 95
+........................................

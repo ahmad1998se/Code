@@ -1,0 +1,42 @@
+C:\Users\Ahmad\Desktop\game\Game\bin\Debug\Game.exe.config
+C:\Users\Ahmad\Desktop\game\Game\bin\Debug\Game.exe
+C:\Users\Ahmad\Desktop\game\Game\bin\Debug\Game.pdb
+C:\Users\Ahmad\Desktop\game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\game\Game\obj\Debug\Game.Create.resources
+C:\Users\Ahmad\Desktop\game\Game\obj\Debug\Game.Current.resources
+C:\Users\Ahmad\Desktop\game\Game\obj\Debug\Game.Form1.resources
+C:\Users\Ahmad\Desktop\game\Game\obj\Debug\Game.History.resources
+C:\Users\Ahmad\Desktop\game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\game\Game\obj\Debug\Game.Statistics.resources
+C:\Users\Ahmad\Desktop\game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\game\Game\obj\Debug\Game.exe
+C:\Users\Ahmad\Desktop\game\Game\obj\Debug\Game.pdb
+C:\Users\Ahmad\Desktop\NEW NEW\Game\bin\Debug\Game.exe.config
+C:\Users\Ahmad\Desktop\NEW NEW\Game\bin\Debug\Game.exe
+C:\Users\Ahmad\Desktop\NEW NEW\Game\bin\Debug\Game.pdb
+C:\Users\Ahmad\Desktop\NEW NEW\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\NEW NEW\Game\obj\Debug\Game.Create.resources
+C:\Users\Ahmad\Desktop\NEW NEW\Game\obj\Debug\Game.Current.resources
+C:\Users\Ahmad\Desktop\NEW NEW\Game\obj\Debug\Game.Form1.resources
+C:\Users\Ahmad\Desktop\NEW NEW\Game\obj\Debug\Game.History.resources
+C:\Users\Ahmad\Desktop\NEW NEW\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\NEW NEW\Game\obj\Debug\Game.Statistics.resources
+C:\Users\Ahmad\Desktop\NEW NEW\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\NEW NEW\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\NEW NEW\Game\obj\Debug\Game.exe
+C:\Users\Ahmad\Desktop\NEW NEW\Game\obj\Debug\Game.pdb
+D:\study\2019\C#\game\NEW NEW\Game\bin\Debug\Game.exe.config
+D:\study\2019\C#\game\NEW NEW\Game\bin\Debug\Game.exe
+D:\study\2019\C#\game\NEW NEW\Game\bin\Debug\Game.pdb
+D:\study\2019\C#\game\NEW NEW\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\study\2019\C#\game\NEW NEW\Game\obj\Debug\Game.Create.resources
+D:\study\2019\C#\game\NEW NEW\Game\obj\Debug\Game.Current.resources
+D:\study\2019\C#\game\NEW NEW\Game\obj\Debug\Game.Form1.resources
+D:\study\2019\C#\game\NEW NEW\Game\obj\Debug\Game.History.resources
+D:\study\2019\C#\game\NEW NEW\Game\obj\Debug\Game.Properties.Resources.resources
+D:\study\2019\C#\game\NEW NEW\Game\obj\Debug\Game.Statistics.resources
+D:\study\2019\C#\game\NEW NEW\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\study\2019\C#\game\NEW NEW\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\study\2019\C#\game\NEW NEW\Game\obj\Debug\Game.exe
+D:\study\2019\C#\game\NEW NEW\Game\obj\Debug\Game.pdb
