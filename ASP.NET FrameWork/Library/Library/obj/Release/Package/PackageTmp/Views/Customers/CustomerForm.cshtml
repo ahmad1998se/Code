@@ -1,0 +1,47 @@
+﻿@model Library.ViewModel.CustomerFormViewModel
+@{
+    ViewBag.Title = "New";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>New</h2>
+
+@using (Html.BeginForm("Save", "Customers"))
+{
+    @Html.ValidationSummary()
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.Name)    
+        @Html.TextBoxFor(m => m.Customer.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m=>m.Customer.Name)
+
+
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => Model.MembershipTypes)
+        @Html.DropDownListFor(m => m.Customer.MembershipTypeId, new SelectList(Model.MembershipTypes, "Id", "Name"), "Select MemberShip Type", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m=>m.Customer.MembershipTypeId)
+
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.Birthday)
+        @Html.TextBoxFor(m => m.Customer.Birthday,"{0:d MMM yyyy}" , new { @class = "form-control" })
+        @Html.ValidationMessageFor(m=>m.Customer.Birthday)
+
+    </div>
+    <div class="form-check">
+        @Html.CheckBoxFor(m => m.Customer.isSubscribedToNewsletter)
+        <label class="form-check-label" for="flexCheckChecked"> 
+            Subscribed to NewsLetter
+        </label>
+         
+    </div>
+
+    @Html.HiddenFor(m=>m.Customer.Id)
+    @Html.AntiForgeryToken()
+    <div class="d-grid gap-2 d-md-block">
+        <button class="btn btn-primary" type="submit">Submit</button>
+    </div>
+
+}   
+@Scripts.Render("~/bundles/jqueryval")
